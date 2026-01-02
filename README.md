@@ -185,3 +185,6 @@ Instruksi Studi Proyek:
 Saya ingin Anda membaca semua berkas dan menganalisis proyek ini, mulai dari struktur kode sampai detail implementasi.
 Pastikan implementasi konsisten dengan kode yang sudah ada.
 Untuk saat ini, fokus pada studi proyek ini saja, jangan lakukan hal lain.
+
+# MEMAKSIMALKAN AI (SETIAP PROMPT)
+Silakan lakukan deepsearch lokal untuk menemukan masalahnya, dan lakukan deepsearch online untuk praktik terbaik dan konsistensi dengan kode yang sudah ada.
