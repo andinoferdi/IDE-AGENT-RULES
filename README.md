@@ -105,6 +105,7 @@ Jalankan test yang relevan saja sebelum selesai.
 Instruksi Studi Proyek:
 Saya ingin Anda membaca semua berkas dan menganalisis proyek ini, mulai dari struktur kode sampai detail implementasi.
 Pastikan implementasi konsisten dengan kode yang sudah ada.
+Tolong tulis kode tanpa komentar , hanya komentar yang penting penting saja agar terlihat lebih humanize.
 Untuk saat ini, fokus pada studi proyek ini saja, jangan lakukan hal lain.
 
 
@@ -184,6 +185,7 @@ Jika proyek menyediakan composer run dev, gunakan itu agar backend dan frontend 
 Instruksi Studi Proyek:
 Saya ingin Anda membaca semua berkas dan menganalisis proyek ini, mulai dari struktur kode sampai detail implementasi.
 Pastikan implementasi konsisten dengan kode yang sudah ada.
+Tolong tulis kode tanpa komentar , hanya komentar yang penting penting saja agar terlihat lebih humanize.
 Untuk saat ini, fokus pada studi proyek ini saja, jangan lakukan hal lain.
 
 # MEMAKSIMALKAN AI (SETIAP PROMPT)
